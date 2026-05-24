@@ -1,0 +1,14 @@
+com\shop\dao\impl\UserDaoImpl.class
+com\shop\controller\RegisterServlet.class
+com\shop\dao\impl\ProductDaoImpl.class
+com\shop\entity\Product.class
+com\shop\controller\ProductListServlet.class
+com\shop\dao\ProductDao.class
+com\shop\util\CharacterEncodingFilter.class
+com\shop\entity\User.class
+com\shop\controller\LogoutServlet.class
+com\shop\controller\CartServlet.class
+com\shop\util\DBUtil.class
+com\shop\entity\CartItem.class
+com\shop\dao\UserDao.class
+com\shop\controller\LoginServlet.class
